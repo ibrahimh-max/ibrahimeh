@@ -1,7 +1,7 @@
-# Marhaba
+# Ibrahim Hassan
 
 
-## [Ibrahim hassan]
+## [Hola Amigos]
 ![Header](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Hi there 👋
